@@ -1,6 +1,6 @@
 # Basketball
 
-### A Video showing the result of Custom Object Detection
+### A Video showing the result of Object Detection and Custom Object Detection
 https://user-images.githubusercontent.com/68103229/161885649-7a1ed48a-8c6f-4d2a-a864-d32ee51b1ac0.mp4
 
 ### A video showing the result of basketball Segmentation using Detectron2.
